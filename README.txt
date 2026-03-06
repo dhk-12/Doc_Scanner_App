@@ -38,3 +38,7 @@ A powerful and user-friendly web application built with Streamlit that extracts 
 4. Click on the **Start Processing** button to begin text extraction.
 5. Review the extracted text in the text area.
 6. Click **Download Text** to save the output locally.
+
+## 👨‍💻 Author
+Developed by **Hossam Khaled**
+If you find this toolkit useful, please give it a ⭐ on GitHub!
